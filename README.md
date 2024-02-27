@@ -10,6 +10,7 @@ The Laravel Booking API is a RESTful API built using Laravel, designed to handle
 - Booking Management: Easily handle booking creation, modification, and cancellation.
 - Availability Tracking: Track resource availability and prevent overbooking.
 - Payments: Manage room payments securely.
+- API Documentation available at: <a href="http://localhost:8000/api/documentation/" target="_blank"></a>
 
 ## Requirements
 - PHP 8.3 or later

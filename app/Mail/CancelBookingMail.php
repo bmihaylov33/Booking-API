@@ -15,7 +15,7 @@ class CancelBookingMail extends Mailable
 
     public function build()
     {
-        return $this->view('emails.new_booking')
-            ->subject('New Booking Alert');
+        return $this->view('emails.cancel_booking')
+            ->subject('Cancelation Booking Alert');
     }
 }
